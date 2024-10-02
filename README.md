@@ -18,6 +18,8 @@ Această documentație te va ghida prin procesul de configurare și rulare a apl
 Deschide un terminal și rulează următoarele comenzi:
 ```bash
 git clone [https://github.com/CosminMihai73/StudentForm.git]
+```
+```bash
 cd StudentForm/StudentFormApi
 ```
 
