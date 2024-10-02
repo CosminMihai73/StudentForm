@@ -17,7 +17,7 @@ Această documentație te va ghida prin procesul de configurare și rulare a apl
 ### 1. Clonarea Repository-ului
 Deschide un terminal și rulează următoarele comenzi:
 ```bash
-git clone [https://github.com/CosminMihai73/StudentForm.git]
+git clone https://github.com/CosminMihai73/StudentForm.git
 ```
 ```bash
 cd StudentForm/StudentFormApi
