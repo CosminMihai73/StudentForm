@@ -10,7 +10,7 @@ Această documentație te va ghida prin procesul de configurare și rulare a apl
 ## Cerințe Prealabile
 - **.NET 6.0** sau o versiune mai recentă: Necesare pentru a rula backend-ul ASP.NET Core.
 - **Node.js** și **npm**: Necesare pentru a gestiona dependențele și a rula frontend-ul React.
-- **Visual Studio** sau **Visual Studio Code** (opțional): Recomandate pentru dezvoltare și depanare.
+- **Visual Studio** sau **Visual Studio Code** 
 
 ## Configurarea și Rularea Backend-ului (StudentFormApi)
 
