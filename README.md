@@ -1,7 +1,7 @@
 # Documentație pentru Rularea Aplicației StudentForm
 
 ## Introducere
-Această documentație detaliată te va ghida prin procesul de configurare și rulare a aplicației **StudentForm**, care este împărțită în două componente principale: un **backend** ASP.NET Core și un **frontend** React. Ambele componente sunt organizate în foldere separate în cadrul repository-ului.
+Această documentație te va ghida prin procesul de configurare și rulare a aplicației **StudentForm**, care este împărțită în două componente principale: un **backend** ASP.NET Core și un **frontend** React. Ambele componente sunt organizate în foldere separate în cadrul repository-ului.
 
 ## Structura Proiectului
 - **StudentFormApi**: Conține codul sursă al backend-ului ASP.NET Core, responsabil pentru logica de afaceri și generarea PDF-urilor.
