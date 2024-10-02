@@ -59,3 +59,6 @@ Pentru a porni aplicația frontend, folosește comanda:
 npm start
 ```
 Aplicația React va fi accesibilă la adresa http://localhost:3000
+
+## Concluzie
+După ce ai urmat pașii de mai sus, aplicația StudentForm ar trebui să fie funcțională atât pe backend cât și pe frontend. Asigură-te că backend-ul este pornit înainte de a accesa frontend-ul. În caz de probleme, verifică terminalul pentru mesaje de eroare și consultă documentația specifică a tehnologiilor utilizate.
