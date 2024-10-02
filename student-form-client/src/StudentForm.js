@@ -24,7 +24,7 @@ const StudentForm = () => {
         setIsLoading(true); 
 
         try {
-            const response = await axios.post('https://localhost:7138/Student/generate-pdf', {
+            const response = await axios.post('http://localhost:5097/Student/generate-pdf', {
                 Nume: nume,
                 Prenume: prenume,
                 Facultate: facultate,

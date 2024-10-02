@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Cosmin\\StudentFormApi\\StudentFormApi.csproj": {}
+    "C:\\Users\\Cosmin\\StudentForm\\StudentFormApi\\StudentFormApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Cosmin\\StudentFormApi\\StudentFormApi.csproj": {
+    "C:\\Users\\Cosmin\\StudentForm\\StudentFormApi\\StudentFormApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Cosmin\\StudentFormApi\\StudentFormApi.csproj",
+        "projectUniqueName": "C:\\Users\\Cosmin\\StudentForm\\StudentFormApi\\StudentFormApi.csproj",
         "projectName": "StudentFormApi",
-        "projectPath": "C:\\Users\\Cosmin\\StudentFormApi\\StudentFormApi.csproj",
+        "projectPath": "C:\\Users\\Cosmin\\StudentForm\\StudentFormApi\\StudentFormApi.csproj",
         "packagesPath": "C:\\Users\\Cosmin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Cosmin\\StudentFormApi\\obj\\",
+        "outputPath": "C:\\Users\\Cosmin\\StudentForm\\StudentFormApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Cosmin\\AppData\\Roaming\\NuGet\\NuGet.Config",
