@@ -39,7 +39,7 @@ Pentru a porni backend-ul, folosește comanda:
 ```bash
 dotnet run
 ```
-Backend-ul va fi accesibil la adresa [http://localhost:5097]. Asigură-te că această adresă este configurată corect în frontend.
+Backend-ul va fi accesibil la adresa http://localhost:5097. Asigură-te că această adresă este configurată corect în frontend.
 
 ## Configurarea și Rularea Frontend-ului (StudentFormClient)
 
