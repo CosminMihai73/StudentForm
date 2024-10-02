@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "StudentFormApi.Controllers.StudentController",
+    "Method": "GeneratePdf",
+    "RelativePath": "Student/generate-pdf",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "StudentFormApi.Models.StudentFormModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
